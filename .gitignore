@@ -15,4 +15,6 @@ server.pid
 /target
 test-result
 tmp/
-
+.classpath
+.settings
+.project
